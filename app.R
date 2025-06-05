@@ -14,7 +14,7 @@ library(reticulate)
 ui <- fluidPage(
   
   # Application title
-  titlePanel("Linkify"),
+  titlePanel("Eventually Python"),
   
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
